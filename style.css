@@ -20,4 +20,9 @@ img {
 .footer-color{
     color: green;
 }
+p{
+    line-height: 25px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
 
