@@ -1,0 +1,23 @@
+body{
+    background-color:#444444 ;
+    border:solid 3px grey ;
+    margin: 5px;
+}
+nav{
+    text-align: center;
+}
+img {
+     display: block; margin: 0 auto; 
+    }
+
+.align-color{
+    text-align: center;
+    color: white;
+}
+#About-me{
+    color: white;
+}
+.footer-color{
+    color: green;
+}
+
